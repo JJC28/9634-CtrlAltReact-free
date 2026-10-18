@@ -1,1 +1,1 @@
-"echo echo" 
+"jc edit" 
